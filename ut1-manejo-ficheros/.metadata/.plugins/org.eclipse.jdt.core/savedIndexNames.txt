@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+/Users/sofs/Desktop/cfgs/2DAM/2DAM-acceso-a-datos/ut1-manejo-ficheros/.metadata/.plugins/org.eclipse.jdt.core
+1778419292.index
+803402932.index
+3730982271.index
+686787486.index
+1853113887.index
+779343061.index
+1865797976.index
+804287410.index

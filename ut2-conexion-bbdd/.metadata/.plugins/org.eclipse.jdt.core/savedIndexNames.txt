@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/sofs/Desktop/cfgs/2DAM/2DAM-acceso-a-datos/ut2-conexion-bbdd/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+686787486.index
+1334326314.index
