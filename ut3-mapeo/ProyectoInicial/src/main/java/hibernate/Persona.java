@@ -3,7 +3,7 @@ package hibernate;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "personas")
+@Table(name = "persona")
 public class Persona {
 	// definir clave primaria
 	@Id
@@ -36,6 +36,12 @@ public class Persona {
 
 	public void setEdad(int edad) {
 		this.edad = edad;
+	}
+
+
+	@Override
+	public String toString() {
+		return "Persona [id=" + id + ", nombre=" + nombre + ", edad=" + edad + "]";
 	}
 	
 	

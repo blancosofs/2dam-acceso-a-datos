@@ -1,14 +1,15 @@
 <hibernate-configuration>
 	<session-factory>
 		<!-- Datos conexion -->
-		<property name="hibernate.connection.url">jdbc:mysql//localhost:3306/hibernate_db
+		<!-- cuidado con la url (los dos puntos) -->
+		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/hibernate_db
 		</property>
 		<property name="hibernate.connection.username">root</property>
 		<property name="hibernate.connection.password">cfgs</property>
 		<property name="hibernate.connection.class">com.mysql.cj.jdbc.Driver</property>
 
 		<property name="dialect">org.hibernate.dialect.MySQL8Dialect</property>
-		<!--<property name="dialect">org.hibernate.MYSQL8Dialect</property>-->
+		<!--<property name="dialect">org.hibernate.MYSQL8Dialect</property> -->
 		<property name="hibernate.hdm2ddl.auto">update</property>
 		<property name="show_sql">true</property>
 
