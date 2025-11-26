@@ -40,3 +40,51 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY ch.qos.logback.classic 1 0 2025-11-24 09:56:09.420
 !MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+!SESSION 2025-11-24 19:15:56.431 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/sofs/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/sofs/.eclipse_keyring -data /Users/sofs/Desktop/cfgs/2DAM/2DAM-acceso-a-datos/ut2-conexion-bbdd
+
+!ENTRY ch.qos.logback.classic 1 0 2025-11-24 19:15:57.260
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-11-24 19:15:57.347
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (792) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-11-24 19:15:58.087
+!MESSAGE Logback config file: /Users/sofs/Desktop/cfgs/2DAM/2DAM-acceso-a-datos/ut2-conexion-bbdd/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+!SESSION 2025-11-24 19:22:03.191 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/sofs/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/sofs/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-11-24 19:22:04.180
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-11-24 19:22:04.266
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (792) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-11-24 19:22:05.026
+!MESSAGE Logback config file: /Users/sofs/Desktop/cfgs/2DAM/2DAM-acceso-a-datos/ut2-conexion-bbdd/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
+!SESSION 2025-11-25 19:34:21.513 -----------------------------------------------
+eclipse.buildId=4.37.0.20250905-1455
+java.version=24.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/sofs/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/sofs/.eclipse_keyring -data /Users/sofs/Desktop/cfgs/2DAM/2DAM-acceso-a-datos/ut2-conexion-bbdd
+
+!ENTRY ch.qos.logback.classic 1 0 2025-11-25 19:34:22.353
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-11-25 19:34:22.442
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.31.0 (792) Component descriptor entry 'OSGI-INF/*.xml' not found
+
+!ENTRY ch.qos.logback.classic 1 0 2025-11-25 19:34:23.180
+!MESSAGE Logback config file: /Users/sofs/Desktop/cfgs/2DAM/2DAM-acceso-a-datos/ut2-conexion-bbdd/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.100.20250418-1315.xml
